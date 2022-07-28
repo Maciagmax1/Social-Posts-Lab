@@ -1,0 +1,6 @@
+.PostInList {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+/* no working how its supposed to */

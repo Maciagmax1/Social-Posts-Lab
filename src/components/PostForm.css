@@ -1,0 +1,7 @@
+.PostForm {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 75%;
+  background-color: white;
+}
